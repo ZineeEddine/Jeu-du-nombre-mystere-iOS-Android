@@ -1,6 +1,6 @@
 
 # Jeu du nombre mystère - Android & iOS
-Version 0.0
+Version Java, Kotlin et Swift
 
 
 
