@@ -15,7 +15,7 @@ L'utilisateur dispose de 5 chances.
 
 ## Installation
 
-git clone https://code.up8.edu/zine-eddine/jeu-du-nombre-mystere-ios-android.git
+git clone https://github.com/ZineeEddine/Jeu-du-nombre-mystere-iOS-Android.git
 
 ### Pour la version Android, installez l'émulateur Nexus 6 (API 32) depuis Android Studio puis lancez l'application.
 ### Pour la version iOS, installez l'émulateur Iphone 12 depuis Xcode, puis lancez l'application.
